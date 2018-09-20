@@ -1,6 +1,6 @@
 Open Draw.io
 
-https://github.com/PerkinsAndWill/drawio/blob/master/src/main/webapp/index.html
+https://perkinsandwill.github.io/drawio/src/main/webapp/index.html
 
 [![Build Status](https://travis-ci.org/jgraph/drawio.svg?branch=master)](https://travis-ci.org/jgraph/drawio)
 
